@@ -27,7 +27,7 @@
 </div>
 
 
-<h1 style="color: #FFA500;">Welcome to SQDTt's GitHub ! 🍀</h1>
+<h1 style="color: #FFA500;">Nice to meet you !🍀</h1>
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+World+Remains+Peaceful+Forever+!)
